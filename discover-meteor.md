@@ -20,7 +20,7 @@ On OS X or Windows:
 
 ### Create a Project
 
-After having installed Meteor, let's create a project, in your terminal type:
+After having installed Meteor, let's create a project. In your terminal type:
 ```bash
 $ meteor create the-name-of-your-app
 ```
@@ -36,7 +36,7 @@ To see your project you can open a browser and go to [http://localhost:3000/](ht
 
 ### Tutorial 1 - Create your First Meteor App
 
-In this [tutorial](http://meteortips.com/first-meteor-tutorial/projects/) you can create a Leaderboard application and understand how meteor work.
+In this [tutorial](http://meteortips.com/first-meteor-tutorial/projects/) you can create a Leaderboard application and see how meteor works.
 This is what you will build.
 [This is what you will build.](http://leaderboard2.meteor.com/)
 
@@ -48,7 +48,7 @@ This is what you will build.
 ![meteor2](images/meteor2.png)
 
 ## Structuring your Meteor Application
-Meteor doesn’t enforce a precise file structure. You have several option about how to structure a project, here are a few:
+Meteor doesn’t enforce a precise file structure. You have several options about how to structure a project, here are a few:
 
 - [Iron - a command line scaffolding tool for Meteor applications. It automatically creates project structure, files and boilerplate code.](https://github.com/iron-meteor/iron-cli)
 - [Meteor Boilerplate by Matteodem - This boilerplate gives you a starting point for your meteor projects](https://github.com/matteodem/meteor-boilerplate)
@@ -60,7 +60,7 @@ Meteor doesn’t enforce a precise file structure. You have several option about
 Tutorials
 
 - [Create your first meteor app](https://www.meteor.com/tutorials/blaze/creating-an-app)
-- [An app made with meteor](https://tmc-011-demo.meteor.com/) - This app allows you order a pizza in a few minutes and you can also customize your own pizza. Here is a [tutorial for the Pizza app](https://themeteorchef.com/recipes/building-complex-forms/).
+- [An app made with meteor](https://tmc-011-demo.meteor.com/) - This app allows you to order a pizza in a few minutes, and you can also customize your own pizza. Here is a [tutorial for the Pizza app](https://themeteorchef.com/recipes/building-complex-forms/).
 - [The Meteor Chef - In-depth tutorials that help you implement functionality in your Meteor application](https://themeteorchef.com/)
 
 Books
