@@ -7,6 +7,7 @@
 
 ### How does Meteor work?
 ![meteor0](images/meteor0.png)
+
 This is an image from [Matthew Platts](http://www.meteor-tutorial.org/book/overview) 
 
 ### Install Meteor
@@ -20,7 +21,7 @@ On OS X or Windows:
 
 ### Create a Project
 
-After having installed Meteor, let's create a project, in your terminal type:
+After having installed Meteor, let's create a project. In your terminal type:
 ```bash
 $ meteor create the-name-of-your-app
 ```
@@ -36,9 +37,7 @@ To see your project you can open a browser and go to [http://localhost:3000/](ht
 
 ### Tutorial 1 - Create your First Meteor App
 
-In this [tutorial](http://meteortips.com/first-meteor-tutorial/projects/) you can create a Leaderboard application and understand how meteor work.
-This is what you will build.
-[This is what you will build.](http://leaderboard2.meteor.com/)
+In this [tutorial](http://meteortips.com/first-meteor-tutorial/projects/) you can create a Leaderboard application and understand how meteor works. [This is what you will build.](http://leaderboard2.meteor.com/)
 
 
 ### Tutorial 2 - Create your Second Meteor App
@@ -48,7 +47,7 @@ This is what you will build.
 ![meteor2](images/meteor2.png)
 
 ## Structuring your Meteor Application
-Meteor doesn’t enforce a precise file structure. You have several option about how to structure a project, here are a few:
+Meteor doesn’t enforce a precise file structure. You have several options for how to structure a project, here are a few:
 
 - [Iron - a command line scaffolding tool for Meteor applications. It automatically creates project structure, files and boilerplate code.](https://github.com/iron-meteor/iron-cli)
 - [Meteor Boilerplate by Matteodem - This boilerplate gives you a starting point for your meteor projects](https://github.com/matteodem/meteor-boilerplate)
